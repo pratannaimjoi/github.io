@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
-คุณสามารถใช้ [ตัวแก้ไขบน GitHub] (https://github.com/tanpattaya/github.io/edit/master/index.md) เพื่อรักษาและดูตัวอย่างเนื้อหาสำหรับเว็บไซต์ของคุณในไฟล์ Markdown
 
-You can use the [editor on GitHub](https://github.com/tanpattaya/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/tanpattaya/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -36,3 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
