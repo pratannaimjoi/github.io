@@ -35,3 +35,24 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Hello world javascript action
+
+This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
+
+## Inputs
+
+### `who-to-greet`
+
+**Required** The name of the person to greet. Default `"World"`.
+
+## Outputs
+
+### `time`
+
+The time we greeted you.
+
+## Example usage
+
+uses: actions/hello-world-javascript-action@v1
+with:
+  who-to-greet: 'Mona the Octocat'
