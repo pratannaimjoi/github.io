@@ -1,3 +1,10 @@
+function helloWorld() {
+  console.log('Hello World!');
+}
+
+module.exports = {
+  helloWorld: helloWorld
+}
 const core = ต้องการ ('@ actions / core');
 const github = ต้องการ ('@ actions / github');
 
