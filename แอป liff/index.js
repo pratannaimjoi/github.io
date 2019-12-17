@@ -1,3 +1,5 @@
+const myPackage = require('@codertocat/hello-world-npm');
+myPackage.helloWorld();
 function helloWorld() {
   console.log('Hello World!');
 }
