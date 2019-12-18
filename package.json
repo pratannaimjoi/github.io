@@ -1,7 +1,7 @@
 {
   "name": "@codertocat/hello-world-npm",
   "version": "1.0.2",
-  "description": "A simple npm package to demonstrate GitHub Package Registry",
+  "description": "https://github.com/tanpattaya/github.io/Package Registry",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
