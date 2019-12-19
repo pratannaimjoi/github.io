@@ -1,23 +1,24 @@
 {
-  "name": "@tanpattaya/hello-world-npm",
-  "version": "1.0.2",
-  "description": "https://github.com/tanpattaya/github/hello-world-npm",
-  }
+  "name": " Hello World-javascript-action",
+  "version": "1.0.0",
+  "description": "การกระทำนี้จะพิมพ์ \" Hello World \ "หรือ \" Hello \ "+ ชื่อของบุคคลที่จะทักทายกับบันทึก",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-  },
-  "repository": {
+  "สคริปต์": {
+    "test": "echo \" ข้อผิดพลาด: ไม่ได้ระบุการทดสอบ \ "&& exit 1"
+  }
+  "พื้นที่เก็บข้อมูล": {
     "type": "git",
-    "url": "git+https://github.com/tanpattaya/github.io.git"
-  },
-  "author": "Codertocat",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tanpattaya/github.io/issues"
-  },
-  "homepage": "https://github.com/tanpattaya/github.io#readme",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "url": "git + https: //github.com/tanpattaya/hello-world-javascript-action.git"
+  }
+  "คำหลัก": [],
+  "ผู้แต่ง": "",
+  "ใบอนุญาต": "ISC",
+  "ข้อบกพร่อง": {
+    "url": "https://github.com/tanpattaya/hello-world-javascript-action/issues"
+  }
+  "หน้าแรก": "https://github.com/tanpattaya/hello-world-javascript-action#readme",
+  "การพึ่งพา": {
+    "@ actions / core": "^ 1.1.0",
+    "@ actions / github": "^ 1.1.0"
   }
 }
