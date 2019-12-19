@@ -1,24 +1,22 @@
 {
-  "name": " Hello World-javascript-action",
-  "version": "1.0.0",
-  "description": "การกระทำนี้จะพิมพ์ \" Hello World \ "หรือ \" Hello \ "+ ชื่อของบุคคลที่จะทักทายกับบันทึก",
+  "name": "@codertocat/hello-world-npm",
+  "version": "1.0.2",
+  "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
-  "สคริปต์": {
-    "test": "echo \" ข้อผิดพลาด: ไม่ได้ระบุการทดสอบ \ "&& exit 1"
-  }
-  "พื้นที่เก็บข้อมูล": {
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
     "type": "git",
-    "url": "git + https: //github.com/tanpattaya/hello-world-javascript-action.git"
-  }
-  "คำหลัก": [],
-  "ผู้แต่ง": "",
-  "ใบอนุญาต": "ISC",
-  "ข้อบกพร่อง": {
-    "url": "https://github.com/tanpattaya/hello-world-javascript-action/issues"
-  }
-  "หน้าแรก": "https://github.com/tanpattaya/hello-world-javascript-action#readme",
-  "การพึ่งพา": {
-    "@ actions / core": "^ 1.1.0",
-    "@ actions / github": "^ 1.1.0"
+    "url": "git+https://github.com/Codertocat/hello-world-npm.git"
+  },
+  "author": "Codertocat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codertocat/hello-world-npm/issues"
+  },
+  "homepage": "https://github.com/Codertocat/hello-world-npm#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   }
 }
