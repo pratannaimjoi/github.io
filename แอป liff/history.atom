@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.githubstatus.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://www.githubstatus.com"/>
+  <link rel="self" type="application/atom+xml" href="https://www.githubstatus.com/history.atom"/>
+  <title>GitHub Status - Incident History</title>
+  <updated>2019-12-23T08:11:38Z</updated>
+  <author>
+    <name>GitHub</name>
+  </author>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3342436</id>
+    <published>2019-12-19T23:12:49Z</published>
+    <updated>2019-12-19T23:12:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/krfmmxs3wdry"/>
+    <title>Incident on 2019-12-19 22:49 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;23:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;22:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Delays in Webhooks and Notifications are currently being investigated.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3318553</id>
+    <published>2019-12-13T18:45:41Z</published>
+    <updated>2019-12-13T18:45:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/4g79klqzy99s"/>
+    <title>Incident on 2019-12-13 17:00 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;18:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;17:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have identified contributing factors and continue to investigate issues for a small number of users.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Currently investigating increased error rate across number of services.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3286233</id>
+    <published>2019-12-05T02:13:41Z</published>
+    <updated>2019-12-05T02:13:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/j6mybvf8qblx"/>
+    <title>Incident on 2019-12-05 00:09 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;02:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;01:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - A fix for delays in Actions job statuses updating has been applied and we are monitoring recovery.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;00:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate delays in Actions job statuses updating.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;00:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating delays in Actions job statuses updating.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3267565</id>
+    <published>2019-11-29T12:30:55Z</published>
+    <updated>2019-11-29T12:30:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/39ynqr1xb3s0"/>
+    <title>Incident on 2019-11-29 09:21 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Error rates have mostly recovered and we are continuing to monitor.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;11:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Error rates for Actions runs are improving. We are monitoring the recovery.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing remediation work and will post updates as we have them.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing remediation work and will post updates as we have them.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor error rates for Actions and will post updates as we learn them.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating reports of degraded performance for new users of Actions.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3252390</id>
+    <published>2019-11-25T05:01:05Z</published>
+    <updated>2019-11-25T05:01:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/4sh7f76nh5gq"/>
+    <title>Incident on 2019-11-25 03:14 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;05:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;04:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Errors have subsided and we are monitoring recovery.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;03:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate some users experiencing errors when visiting github.com.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;03:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating errors when visiting github.com.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3234309</id>
+    <published>2019-11-20T03:25:47Z</published>
+    <updated>2019-11-20T03:25:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/w7wlzstc8wss"/>
+    <title>Incident on 2019-11-20 01:19 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;03:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;02:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Error rates for Actions runs are improving. We are monitoring the recovery.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;02:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are investigating errors starting runs for Actions workflows.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;01:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to investigate problems starting runs for Actions workflows.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;01:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating problems starting runs for Actions workflows.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3227044</id>
+    <published>2019-11-18T08:08:30Z</published>
+    <updated>2019-11-18T08:08:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/2fvfs7gwr96z"/>
+    <title>We're noticing an increased rate of errors and are investigating</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;07:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have determined a potential cause and are beginning remediation efforts&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;07:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate degradation to GitHub.com and will post updates as we learn more&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;06:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're noticing an increased rate of errors and are investigating&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3220457</id>
+    <published>2019-11-15T17:55:12Z</published>
+    <updated>2019-11-15T17:55:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/hknr57wmdj94"/>
+    <title>Incident on 2019-11-15 17:23 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;17:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;17:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an increase in 5xx errors for raw and archive downloads.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3216711</id>
+    <published>2019-11-14T20:18:48Z</published>
+    <updated>2019-11-14T20:18:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/jnrk9tvtv38q"/>
+    <title>Incident on 2019-11-14 17:28 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;19:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to investigate a low percentage of Actions agents experiencing reporting failures.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;18:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to investigate Actions job agents failing to report workload status.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;17:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an issue with Actions workers failing to report the status of their workloads.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3182284</id>
+    <published>2019-11-05T20:44:27Z</published>
+    <updated>2019-11-05T20:44:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/42hkbtl63nmn"/>
+    <title>Incident on 2019-11-05 13:42 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;20:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;20:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor as the backlog clears. Users may see delays in search results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;18:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are back to working through our backlog. Users should see webhook delivery delays as we recover.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;18:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Despite our mitigation efforts, we are now experiencing a service interruption.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;17:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Engineers have identified contributing factors to the backlog and have begun their mitigation work.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;16:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate and closely monitor queue sizes.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate higher than normal queue backlogs.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor higher than normal queue backlogs.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;13:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Queue backlogs are currently also causing delays in merging of PRs. We continue to investigate.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;13:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Currently investigating increase in queue backlogs affecting Pages builds and some webhooks deliveries.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3132068</id>
+    <published>2019-10-22T22:31:16Z</published>
+    <updated>2019-10-22T22:31:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/fdl6khghfsp3"/>
+    <title>Incident on 2019-10-22 18:51 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;22:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;21:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to monitor recovery.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are aware of the cause of the degradation and are monitoring its recovery.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate degradation with webhook delivery logs, attachments and git lfs.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to investigate git lfs, attachments and webhook delivery log degradation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Some users are experiencing issues with git lfs, webhook delivery logs and attachments.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Some users are experiencing issues with uploading attachments and with webhook delivery logs.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3060999</id>
+    <published>2019-10-02T19:42:17Z</published>
+    <updated>2019-10-02T19:42:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/yck8ctxhxtwq"/>
+    <title>Incident on 2019-10-02 16:10 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;19:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;19:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor the repairs to affected repositories.  We will stay yellow until we are confident that the remaining repositories are healthy.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;18:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The majority of repo forks are complete, we are monitoring the remaining ones.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;17:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to monitor the backlog of repo forks.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;17:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work through the fork backlog.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;17:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor the repo fork backlog.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;16:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are currently processing the backlog of repo forks.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;16:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The issue with creating forks has been resolved, requested forks are being processed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;16:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The issue with creating forks has been resolved, requested forks are being processed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;16:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Currently investigating issues affecting some users when attempting to fork repositories.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3038699</id>
+    <published>2019-09-26T14:01:09Z</published>
+    <updated>2019-09-26T14:01:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/30mk8j8tvnmx"/>
+    <title>Incident on 2019-09-26 12:47 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;12:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We’ve identified JavaScript issues on some parts of the site and are working on a fix.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3030691</id>
+    <published>2019-09-24T14:08:49Z</published>
+    <updated>2019-09-24T14:08:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/b54zv9nz8m01"/>
+    <title>Incident on 2019-09-24 11:30 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;13:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to monitor notification delays as progress is made against the backlog.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;12:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The source of the earlier issues has been identified as we continue to investigate. We are still observing a delay in some notification events.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;11:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating reports of degraded performance.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/3027704</id>
+    <published>2019-09-23T16:37:46Z</published>
+    <updated>2019-09-23T16:37:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/rgy28jwprr1c"/>
+    <title>Notifications degredation</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The backlog has cleared and all notifications are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Webhooks have recovered, GitHub updates via the Slack integration are behind as we work through the backlog&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating a delay in webhook delivery.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2900266</id>
+    <published>2019-08-22T12:20:46Z</published>
+    <updated>2019-08-22T12:20:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/nt6n1hs8bk3v"/>
+    <title>Incident on 2019-08-22 10:59 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;12:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;12:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Work continues on the earlier identified errors.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;10:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating reports of issues affecting a number of services.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2746104</id>
+    <published>2019-07-22T19:47:35Z</published>
+    <updated>2019-07-22T19:47:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/8x69vj1xyp9v"/>
+    <title>Incident on 2019-07-22 16:02 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The source of the issue has been identified and we are working on a solution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to investigate issues on certain user settings functionality and will update with more information when available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Error rates remain low, but we are investigating reports of trouble loading certain user setting pages.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Error rates have now dropped as we continue to monitor our systems.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are continuing to investigate reports of issues affecting a number of services.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2746034</id>
+    <published>2019-07-22T16:27:26Z</published>
+    <updated>2019-07-22T16:27:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/tq7pm7mn9b1k"/>
+    <title>Incident on 2019-07-22 15:46 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating reports of issues with a number of services.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2728365</id>
+    <published>2019-07-18T19:19:06Z</published>
+    <updated>2019-07-18T19:19:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/jzcjznsv759m"/>
+    <title>Incident on 2019-07-18 18:00 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;19:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;18:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Web and API error rates are back to normal levels.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;18:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have deployed a fix and are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;18:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have identified the cause of elevated error rates and are working on a fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating elevated error rates for Web and API requests.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2577538</id>
+    <published>2019-06-20T09:50:16Z</published>
+    <updated>2019-06-20T09:50:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/qjhqlf52nw6n"/>
+    <title>Incident on 2019-06-20 08:52 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have deployed a fix to mitigate the issues users are experiencing creating new issues, pull requests, gists and comments.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Web we are experiencing issues creating new issues, pull requests and comments and are working on a fix.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2539366</id>
+    <published>2019-06-12T22:05:03Z</published>
+    <updated>2019-06-12T22:05:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/1q6t7dl05p50"/>
+    <title>Incident on 2019-06-12 21:35 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;21:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have received reports of errors on Pull Requests and are working on a fix.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2462062</id>
+    <published>2019-05-29T02:28:00Z</published>
+    <updated>2019-05-29T02:28:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/kv978bsgr4kb"/>
+    <title>Incident on 2019-05-29 02:11 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;02:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;02:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating intermittent errors affecting Web and API requests.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2433172</id>
+    <published>2019-05-22T20:08:49Z</published>
+    <updated>2019-05-22T20:08:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/nf4gcjtcsqdb"/>
+    <title>Incident on 2019-05-22 16:56 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to process the Webhook backlog.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We deployed a fix and are processing the Webhook backlog.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to validate a fix. Webhook deliveries are paused.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are validating a fix. Webhook deliveries are paused.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to investigate a delay in notification deliveries.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating a delay in notification deliveries.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2410465</id>
+    <published>2019-05-16T20:17:09Z</published>
+    <updated>2019-05-16T20:17:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/6vyp7d36str6"/>
+    <title>Incident on 2019-05-16 19:06 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;20:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;19:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We deployed a configuration fix for GitHub Pages, and are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;19:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have identified a configuration problem with GitHub Pages and are deploying a fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;19:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Some customers are having problems accessing GitHub Pages.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.githubstatus.com,2005:Incident/2375929</id>
+    <published>2019-05-07T10:35:14Z</published>
+    <updated>2019-05-07T18:37:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.githubstatus.com/incidents/chq6jdw9x8t5"/>
+    <title>Incident on 2019-05-07 10:35 UTC</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;10:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - 2019-05-07 10:35 UTC - Due to a network hardware failure, some users are experiencing errors trying to access github.com.&lt;br /&gt;2019-05-07 11:23 UTC - This incident has been resolved.&lt;/p&gt;</content>
+  </entry>
+</feed>
