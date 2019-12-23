@@ -1,9 +1,0 @@
-{
-    "name": "@runkit/runkit_es6-template-strings",
-    "version": "1.0.0",
-    "main": "./lib/es6-template-strings",
-    "dependencies": {},
-    "scripts": {
-        "install": "node scripts/install.js"
-    }
-}
