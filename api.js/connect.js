@@ -64,3 +64,19 @@ liff.bluetooth.requestDevice({
 }).catch(e => {
     console.log(e.code + ':' + e.message);
 });
+Example request
+
+Node.js
+// Register event listener for gattserverdisconnected event
+liff.bluetooth
+    .requestDevice()
+    .then(device => {
+        device.addEventListener('gattserverdisconnected', () => {
+            console.log('device gatt is disconnected');
+        });
+
+        window.gatt.connect();
+    })
+    .catch(e => {
+        console.log(e.code + ':' + e.message);
+    });
