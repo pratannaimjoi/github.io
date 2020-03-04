@@ -10,3 +10,17 @@ document.getElementById('getAccessToken').addEventListener('click', function() {
         toggleAccessToken();
     }
 });
+liff.init(() => {
+    const idToken = liff.getDecodedIDToken();
+    console.log(idToken) // print decoded idToken object
+});
+const accessToken = liff.getAccessToken();
+if (accessToken) {
+  fetch("https://api...", {
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${accessToken}`
+    }
+    //...
+  });
+}
