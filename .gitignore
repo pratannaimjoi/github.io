@@ -1,18 +1,64 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# บันทึก
+บันทึก
+* .log
+NPM-debug.log *
+เส้นด้าย debug.log *
+เส้นด้าย error.log *
 
-# Other files and folders
-.settings/
+# ข้อมูลรันไทม์
+PIDs
+* .pid
+* .seed
+* .pid.lock
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# ไดเรกทอรีสำหรับ libs ที่สร้างโดย jscoverage / JSCover
+lib-COV
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# ไดเรกทอรีที่ครอบคลุมที่ใช้โดยเครื่องมือเช่น istanbul
+ความคุ้มครอง
+
+# ครอบคลุมการทดสอบ NYC
+.nyc_output
+
+# ที่เก็บข้อมูลกลางที่รุนแรง (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# ไดเรกทอรีพึ่งพา Bower (https://bower.io/)
+bower_components
+
+# node-waf configuration
+.lock-wscript
+
+# addons ไบนารีที่คอมไพล์แล้ว (https://nodejs.org/api/addons.html)
+สร้าง / ที่วางจำหน่าย
+
+# ไดเรกทอรีการพึ่งพา
+node_modules /
+jspm_packages /
+
+# ไฟล์ประกาศ TypeScript v1
+typings /
+
+# ไดเรกทอรีแคช npm ที่เป็นตัวเลือก
+.npm
+
+# แคช eslint ที่เป็นตัวเลือก
+.eslintcache
+
+# ประวัติ REPL เพิ่มเติม
+.node_repl_history
+
+# เอาต์พุตของ 'npm pack'
+* .tgz
+
+# ไฟล์ Yarn Integrity
+.yarn สมบูรณ์
+
+# ไฟล์ตัวแปรสภาพแวดล้อม dotenv
+.env
+
+# next.js สร้างเอาต์พุต
+.ต่อไป
+
+# ไฟล์ mac
+* DS_Store
